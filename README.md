@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcy
 - 👀 I’m interested in  game development,web development, & artificial intelligence.
-- 🌱 I’m currently learning python,HTML,CSS and JS.
+- 🌱 I’m currently learning Python,HTML,CSS and JS.
 - 📫 How to reach me: designermarvel34@gmail.com
 
 <!---
