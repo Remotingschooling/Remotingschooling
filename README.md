@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcy
+- 👋 Hi, I’m Nodshley
 - 👀 I’m interested in  game development,web development, & artificial intelligence.
 - 🌱 I’m currently learning Python,HTML,CSS and JS.
 - 📫 How to reach me: designermarvel34@gmail.com
